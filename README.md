@@ -2,12 +2,14 @@
 
 # MTK - Monochrome Tool Kit
 
-![plot](./example.png)
+Status: not complete yet.
+
+[![MTK build](https://github.com/Artem-Shapovalov/MTK/actions/workflows/build.yml/badge.svg)](https://github.com/Artem-Shapovalov/MTK/actions/workflows/build.yml)
 
 Simple high-level toolkit to rapidly create user interfaces on monochrome
 displays written in C++.
 
-Not complete yet.
+![plot](./example.png)
 
 # imutil
 
