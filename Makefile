@@ -15,7 +15,6 @@ STYLE += --style=allman
 STYLE += --indent=spaces=2
 STYLE += --min-conditional-indent=0
 STYLE += --break-blocks
-STYLE += --pad-include
 STYLE += --delete-empty-lines
 STYLE += --align-pointer=type
 STYLE += --align-reference=type
