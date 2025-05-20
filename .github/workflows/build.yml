@@ -10,7 +10,7 @@ jobs:
       - name: Install software
         run: |
           sudo apt-get update
-          sudo apt-get install doxygen cccc astyle
+          sudo apt-get install doxygen cccc astyle libfltk1.3
 
       - name: Build
         run: |
