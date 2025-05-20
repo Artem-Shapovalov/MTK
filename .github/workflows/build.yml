@@ -12,6 +12,7 @@ jobs:
           sudo apt-get update
           sudo apt-get install doxygen cccc astyle
           sudo apt-get install libfltk1.3-dev libxft-dev libxinerama-dev
+          sudo apt-get install libxfixes-dev libxcursor-dev
 
       - name: Build
         run: |
